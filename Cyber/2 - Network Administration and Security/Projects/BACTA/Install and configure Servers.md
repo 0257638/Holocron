@@ -10,6 +10,10 @@ Equipment Needed:
 - Keyboard 
 - Mouse
 
+# Very Important!!!
+
+The services and servers are to **only be run on the CyberRange network.** There may be unintended consequences if you run them on the ONE network.
+
 # Operating System
 In your teams install the Raspberry Pi OS.
 
@@ -24,7 +28,7 @@ Credentials:
 | SSID         | Password     |
 | ------------ | ------------ |
 | `CyberRange` | `CyberRange` |
-``
+
 The Raspberry Pi can connect to the SchoolsNet to access the internet via Ethernet.
 
 ## Server name
@@ -32,15 +36,15 @@ The Raspberry Pi can connect to the SchoolsNet to access the internet via Ethern
 As the servers need to interact, a naming policy will be created.
 
 
-| Server            | Name          |
-| ----------------- | ------------- |
-| Web               | http_server   |
-| Database          | db_server     |
-| File              | file_server   |
-| DNS               | dns_server    |
-| Email             | email_server  |
-| DHCP              | dhcp_server   |
-| Domain Controller | domain_server |
+| Server            | Name         |
+| ----------------- | ------------ |
+| Web               | httpServer   |
+| Database          | dbServer     |
+| File              | fileServer   |
+| DNS               | dnsServer    |
+| Email             | emailServer  |
+| DHCP              | dhcpServer   |
+| Domain Controller | domainServer |
 
 You will need to rename the computer name for the Raspberry Pi to the assigned name.
 
