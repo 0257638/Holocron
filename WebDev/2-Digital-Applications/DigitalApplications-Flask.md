@@ -92,16 +92,20 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek04.md)
 #### Practical
-- [ ] [resumeBuilder](/WebDev/_shared/Projects/ANH/resumeBuilder.md)
+- [ ] [Resume Builder](/WebDev/_shared/Projects/ANH/resumeBuilder.md)
 
 ### Week 5
  ![[semesterCalendarS2#School Events - Week 5]]
+![https://youtu.be/FLWyW1CZVUI](https://youtu.be/FLWyW1CZVUI)
+
 #### Class Tasks
 N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek05.md)
 #### Practical
-N/A
+- [ ] [Resume Improvements](/WebDev/_shared/Projects/ANH/resumeImprovements.md)
+
+
 ### Week 6
  ![[semesterCalendarS2#School Events - Week 6]]
 #### Class Tasks
